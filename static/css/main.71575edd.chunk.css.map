@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,eAAgB,CAChB,UACF,CAEA,QACE,cACF","file":"main.71575edd.chunk.css","sourcesContent":["a {\n  list-style: none;\n  color: black;\n}\n\n.active {\n  font-size: 20px;\n}\n"]}
